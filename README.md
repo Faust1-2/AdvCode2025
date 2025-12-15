@@ -5,7 +5,7 @@ This is my personnal repository regarding the advent of code 2025. Syntax may no
 ## Requirements
 
 - [NodeJs](https://nodejs.org/fr)
-- pnpm
+- [pnpm](https://pnpm.io/) (install with `npm i -g pnpm`)
 
 ## Installation
 
